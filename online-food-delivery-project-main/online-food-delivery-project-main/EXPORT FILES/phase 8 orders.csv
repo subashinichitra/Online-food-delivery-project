@@ -1,0 +1,5 @@
+"Table","Non_unique","Key_name","Seq_in_index","Column_name","Collation","Cardinality","Sub_part","Packed","Null","Index_type","Comment","Index_comment","Visible","Expression"
+"orders",0,"PRIMARY",1,"order_id","A","0","","","","BTREE","","","YES",""
+"orders",1,"restaurant_id",1,"restaurant_id","A","0","","","YES","BTREE","","","YES",""
+"orders",1,"idx_order_date",1,"order_date","A","338","","","","BTREE","","","YES",""
+"orders",1,"idx_customer_id",1,"customer_id","A","296","","","YES","BTREE","","","YES",""

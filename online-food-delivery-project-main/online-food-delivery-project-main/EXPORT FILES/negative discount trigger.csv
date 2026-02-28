@@ -1,0 +1,2 @@
+"order_id","customer_id","restaurant_id","order_date","order_amount","discount","payment_method","delivery_time"
+1014,231,138,"2024-01-02","50.00","0.00","Cash",25
